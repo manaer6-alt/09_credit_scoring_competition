@@ -1,0 +1,27 @@
+﻿# Virtual environment
+.venv/
+venv/
+
+# Data
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# CatBoost
+catboost_info/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
