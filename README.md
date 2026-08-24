@@ -1,3 +1,5 @@
+**English** | [Русский](README_RU.md)
+
 # Credit Risk Scoring
 
 End-to-end credit risk project focused on predicting the probability of a serious payment delinquency within 90 days after loan origination.
